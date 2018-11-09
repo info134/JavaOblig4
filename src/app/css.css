@@ -1,0 +1,25 @@
+
+
+/*body {*/
+    /*background-color: yellow;*/
+/*}*/
+
+/*Text {*/
+    /*-fx-background-color: blue;*/
+/*}*/
+
+HBox {
+    -fx-background-color: LightSteelBlue;
+
+}
+#faktura {
+    /*-fx-background-color: red;*/
+    -fx-background-image: url("faktura.jpg");
+    -fx-background-repeat: no-repeat;
+}
+
+
+
+
+
+/*-fx-background-color: darkslateblue; -fx-text-fill: white*/
